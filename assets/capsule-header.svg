@@ -1,0 +1,48 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Susnata Biswas</title>
+  <desc id="desc">Electronics and Telecommunication Student, Coder, Tech Explorer</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3A8296"/>
+      <stop offset="1" stop-color="#091519"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="95" x2="1200" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61DAFB" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#3A8296" stop-opacity="0.5"/>
+    </linearGradient>
+    <filter id="textGlow" x="-15%" y="-45%" width="130%" height="190%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.38 0 0 0 0 0.85 0 0 0 0 0.98 0 0 0 0.65 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="150" fill="url(#bg)"/>
+  <g opacity="0.72">
+    <circle cx="130" cy="34" r="2.2" fill="#61DAFB">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="255" cy="72" r="1.8" fill="#61DAFB">
+      <animate attributeName="opacity" values="1;0.12;1" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="910" cy="46" r="2.4" fill="#61DAFB">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1055" cy="84" r="1.9" fill="#61DAFB">
+      <animate attributeName="opacity" values="1;0.18;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path d="M0 106C130 86 246 86 372 105C502 125 642 143 790 119C940 95 1046 76 1200 96V150H0V106Z" fill="url(#wave)">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0 106C130 86 246 86 372 105C502 125 642 143 790 119C940 95 1046 76 1200 96V150H0V106Z;M0 98C144 118 258 84 394 100C536 117 644 136 792 111C940 86 1060 101 1200 88V150H0V98Z;M0 106C130 86 246 86 372 105C502 125 642 143 790 119C940 95 1046 76 1200 96V150H0V106Z"/>
+  </path>
+
+  <g filter="url(#textGlow)">
+    <text x="600" y="63" text-anchor="middle" fill="#61DAFB" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="800">
+      Hi, I'm Susnata Biswas
+    </text>
+  </g>
+  <text x="600" y="103" text-anchor="middle" fill="#D7F7FD" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" font-weight="650">
+    Electronics &amp; Telecommunication Student | Coder | Tech Explorer
+  </text>
+</svg>
