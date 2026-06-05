@@ -68,7 +68,7 @@ I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/3a8296/susnatacodes" alt="Susnata Biswas GitHub contribution calendar" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUSNATACODES&theme=react-dark&hide_border=false&area=true&radius=8&custom_title=Recent%20Contribution%20Graph" alt="Recent GitHub contribution graph for Susnata Biswas" />
 </p>
 
 <p align="center">
