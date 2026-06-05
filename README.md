@@ -1,29 +1,12 @@
 <p align="center">
-  <img src="./assets/futuristic-header.svg" alt="Susnata Biswas animated futuristic banner" />
+  <img src="./assets/realistic-command-center.svg" alt="Susnata Biswas realistic futuristic portfolio command center" />
 </p>
 
 <p align="center">
-  <img src="./assets/neon-divider.svg" alt="Animated neon divider" />
+  <img src="./assets/terminal-transmission.svg" alt="Animated terminal transmission" />
 </p>
 
-<img align="right" alt="Coding animation" width="340" src="./assets/coding.gif">
-
-## Mission Control
-
-I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student** who loves **coding, mathematics, and technology**.
-
-- Building practical projects while strengthening my coding portfolio
-- Learning programming, data science, electronics, and Android development
-- Sharing ideas and notes on [my blog](https://susnatacodes.blogspot.com)
-- Turning curiosity into code, and ideas into impact
-
-<br clear="right"/>
-
-<p align="center">
-  <img src="./assets/neon-divider.svg" alt="Animated neon divider" />
-</p>
-
-## Connect Grid
+## Connect
 
 <p align="center">
   <a href="mailto:susnatacodes@zohomail.in">
@@ -47,15 +30,16 @@ I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student
 </a>
 -->
 
-<p align="center">
-  <img src="./assets/neon-divider.svg" alt="Animated neon divider" />
-</p>
+## Mission
 
-## Tech Arsenal
+I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student** building practical projects with code, math, and electronics.
 
-<p align="center">
-  <img src="./assets/tech-radar.svg" alt="Animated futuristic tech radar showing skills and tools" />
-</p>
+- Building a strong coding portfolio with real projects
+- Learning programming, data science, electronics, and Android development
+- Sharing ideas and notes on [my blog](https://susnatacodes.blogspot.com)
+- Turning curiosity into code, and ideas into impact
+
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,kotlin,js,html,css&theme=dark" alt="C, Python, Kotlin, JavaScript, HTML, CSS" />
@@ -63,29 +47,14 @@ I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,git,linux&theme=dark" alt="VS Code, Android Studio, GitHub, Git, Linux" />
 </p>
 
-<p align="center">
-  <img src="./assets/neon-divider.svg" alt="Animated neon divider" />
-</p>
+## Featured Projects
 
-## Featured Builds
-
-| Project | Tech | Focus |
+| Project | Tech | Why it matters |
 | --- | --- | --- |
-| [SUSNATA-WEATHER-APP](https://github.com/SUSNATACODES/SUSNATA-WEATHER-APP) | JavaScript | Weather app and API practice |
-| [DigitalDrawingAssist](https://github.com/SUSNATACODES/DigitalDrawingAssist) | Kotlin | Digital drawing assistance project |
-| [BARNEE-SLIDER](https://github.com/SUSNATACODES/BARNEE-SLIDER) | HTML | UI slider experiment |
+| [SUSNATA-WEATHER-APP](https://github.com/SUSNATACODES/SUSNATA-WEATHER-APP) | JavaScript | API practice with a useful weather interface |
+| [DigitalDrawingAssist](https://github.com/SUSNATACODES/DigitalDrawingAssist) | Kotlin | Android and creative tooling practice |
+| [BARNEE-SLIDER](https://github.com/SUSNATACODES/BARNEE-SLIDER) | HTML | UI interaction and frontend experiment |
 
-<p align="center">
-  <img src="./assets/neon-divider.svg" alt="Animated neon divider" />
-</p>
+## Build Philosophy
 
-## Current Goals
-
-- Build a solid coding portfolio with practical projects
-- Keep improving as a student and developer
-- Mix electronics concepts with programming
-- Share useful content with the community
-
-<p align="center">
-  <img src="./assets/footer-pulse.svg" alt="Animated coding footer" />
-</p>
+**Learn the concept. Build the project. Share the journey. Repeat.**
