@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/realistic-command-center.svg" alt="Susnata Biswas realistic futuristic portfolio command center" />
+  <img src="./assets/warp-star-hero.svg" alt="Susnata Biswas animated warp star profile hero" />
 </p>
 
 <p align="center">
-  <img src="./assets/terminal-transmission.svg" alt="Animated terminal transmission" />
+  <img src="./assets/warp-console.svg" alt="Animated warp console" />
 </p>
 
 ## Connect
