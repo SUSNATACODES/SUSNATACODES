@@ -58,7 +58,7 @@ I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/3a8296/susnatacodes" alt="Susnata Biswas GitHub contribution calendar" />
+  <img src="./assets/hire-me-calendar.svg" alt="Contribution calendar spelling HIRE ME with green dots" width="100%" />
 </p>
 
 <p align="center">
