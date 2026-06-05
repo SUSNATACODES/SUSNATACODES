@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=61DAFB&center=true&vCenter=true&width=900&lines=Electronics+%26+Telecommunication+Student;Coder+%7C+Tech+Explorer+%7C+Problem+Solver;Turning+curiosity+into+code+and+ideas+into+impact" alt="Animated typing intro" />
+</p>
+
+<p align="center">
   <a href="mailto:susnatacodes@zohomail.in">
     <img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -20,12 +24,24 @@
 
 ## 👋 About Me
 
-I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student** with a passion for **coding, mathematics, and technology**.
-
-- 🔭 Building practical projects while strengthening my coding portfolio
-- 🌱 Learning more about programming, data science, and electronics
-- ✍️ Sharing ideas and notes on [my blog](https://susnatacodes.blogspot.com)
-- 💡 Turning curiosity into code, and ideas into impact
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <p>
+        I'm <strong>Susnata Biswas</strong>, an <strong>Electronics & Telecommunication Engineering student</strong> with a passion for <strong>coding, mathematics, and technology</strong>.
+      </p>
+      <ul>
+        <li>🔭 Building practical projects while strengthening my coding portfolio</li>
+        <li>🌱 Learning more about programming, data science, and electronics</li>
+        <li>✍️ Sharing ideas and notes on <a href="https://susnatacodes.blogspot.com">my blog</a></li>
+        <li>💡 Turning curiosity into code, and ideas into impact</li>
+      </ul>
+    </td>
+    <td width="42%" align="center">
+      <img src="./assets/coding.gif" alt="Animated coding workspace" width="330" />
+    </td>
+  </tr>
+</table>
 
 ---
 
