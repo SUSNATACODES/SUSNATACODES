@@ -63,25 +63,6 @@ I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student
 | [DigitalDrawingAssist](https://github.com/SUSNATACODES/DigitalDrawingAssist) | Kotlin | Digital drawing assistance project |
 | [BARNEE-SLIDER](https://github.com/SUSNATACODES/BARNEE-SLIDER) | HTML | UI slider experiment |
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/3a8296/susnatacodes" alt="Susnata Biswas GitHub contribution calendar" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUSNATACODES&theme=react" alt="GitHub profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUSNATACODES&theme=react" height="160" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUSNATACODES&theme=react&utcOffset=5.5" height="160" alt="Productive time" />
-</p>
-
----
-
 ## 🧩 Most Used Languages
 
 <p align="center">
