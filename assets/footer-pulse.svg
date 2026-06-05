@@ -1,0 +1,28 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated footer pulse</title>
+  <desc id="desc">A neon footer saying code is where creativity meets curiosity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061923"/>
+      <stop offset="1" stop-color="#020711"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="120" y1="60" x2="880" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61DAFB"/>
+      <stop offset="0.5" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="120" rx="22" fill="url(#bg)"/>
+  <path d="M80 61H215L245 32L288 88L330 58H410L442 42L482 78L518 44L558 78L594 58H670L708 32L754 88L792 61H920" stroke="url(#pulse)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <circle r="5" fill="#61DAFB" filter="url(#glow)">
+    <animateMotion dur="4.2s" repeatCount="indefinite" path="M80 61H215L245 32L288 88L330 58H410L442 42L482 78L518 44L558 78L594 58H670L708 32L754 88L792 61H920"/>
+  </circle>
+  <text x="500" y="104" text-anchor="middle" font-family="Consolas, Monaco, monospace" font-size="16" fill="#D1FAE5">code is where creativity meets curiosity</text>
+</svg>

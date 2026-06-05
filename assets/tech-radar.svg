@@ -1,0 +1,98 @@
+<svg width="1000" height="330" viewBox="0 0 1000 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated futuristic tech radar</title>
+  <desc id="desc">An animated radar panel listing skills and tools: C, Python, Kotlin, JavaScript, HTML, CSS, VS Code, Android Studio, GitHub, Git, and Linux.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071923"/>
+      <stop offset="0.55" stop-color="#08111D"/>
+      <stop offset="1" stop-color="#050817"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="90" y1="80" x2="910" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61DAFB"/>
+      <stop offset="0.5" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 800 30px "Segoe UI", Arial, sans-serif; letter-spacing: 4px; fill: #F8FAFC; }
+      .label { font: 800 18px "Segoe UI", Arial, sans-serif; letter-spacing: 1px; fill: #E2E8F0; }
+      .tiny { font: 600 13px Consolas, Monaco, monospace; letter-spacing: 1px; fill: #94A3B8; }
+      .pill { fill: #091826; stroke: #61DAFB; stroke-opacity: 0.65; stroke-width: 1.5; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="330" rx="24" fill="url(#panel)"/>
+  <rect x="18" y="18" width="964" height="294" rx="18" stroke="url(#accent)" stroke-width="2" filter="url(#glow)" opacity="0.85"/>
+  <path d="M65 90H255L285 64H405M595 64H718L747 90H935" stroke="#61DAFB" stroke-opacity="0.23" stroke-width="2"/>
+  <path d="M65 240H230L270 272H410M590 272H760L800 240H935" stroke="#22C55E" stroke-opacity="0.23" stroke-width="2"/>
+
+  <text x="500" y="62" text-anchor="middle" class="title" filter="url(#glow)">TECH ARSENAL</text>
+  <text x="500" y="92" text-anchor="middle" class="tiny">skills + tools locked, loaded, and always upgrading</text>
+
+  <g transform="translate(500 184)" filter="url(#glow)">
+    <circle r="78" stroke="#61DAFB" stroke-opacity="0.28" stroke-width="2"/>
+    <circle r="48" stroke="#22C55E" stroke-opacity="0.28" stroke-width="2"/>
+    <circle r="18" stroke="#A78BFA" stroke-opacity="0.5" stroke-width="2"/>
+    <line x1="-90" y1="0" x2="90" y2="0" stroke="#61DAFB" stroke-opacity="0.25"/>
+    <line x1="0" y1="-90" x2="0" y2="90" stroke="#61DAFB" stroke-opacity="0.25"/>
+    <path d="M0 0L74 -32" stroke="#22C55E" stroke-width="3" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <circle r="5" fill="#61DAFB">
+      <animate attributeName="r" values="4;8;4" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g filter="url(#glow)">
+    <rect class="pill" x="86" y="124" width="112" height="44" rx="10"/>
+    <text class="label" x="142" y="152" text-anchor="middle">C</text>
+
+    <rect class="pill" x="222" y="124" width="132" height="44" rx="10"/>
+    <text class="label" x="288" y="152" text-anchor="middle">PYTHON</text>
+
+    <rect class="pill" x="646" y="124" width="132" height="44" rx="10"/>
+    <text class="label" x="712" y="152" text-anchor="middle">KOTLIN</text>
+
+    <rect class="pill" x="802" y="124" width="112" height="44" rx="10"/>
+    <text class="label" x="858" y="152" text-anchor="middle">JS</text>
+
+    <rect class="pill" x="118" y="204" width="120" height="44" rx="10"/>
+    <text class="label" x="178" y="232" text-anchor="middle">HTML</text>
+
+    <rect class="pill" x="262" y="204" width="112" height="44" rx="10"/>
+    <text class="label" x="318" y="232" text-anchor="middle">CSS</text>
+
+    <rect class="pill" x="626" y="204" width="118" height="44" rx="10"/>
+    <text class="label" x="685" y="232" text-anchor="middle">GIT</text>
+
+    <rect class="pill" x="768" y="204" width="146" height="44" rx="10"/>
+    <text class="label" x="841" y="232" text-anchor="middle">LINUX</text>
+
+    <rect class="pill" x="304" y="264" width="138" height="38" rx="9"/>
+    <text class="tiny" x="373" y="288" text-anchor="middle" fill="#E2E8F0">VS CODE</text>
+
+    <rect class="pill" x="466" y="264" width="186" height="38" rx="9"/>
+    <text class="tiny" x="559" y="288" text-anchor="middle" fill="#E2E8F0">ANDROID STUDIO</text>
+
+    <rect class="pill" x="676" y="264" width="132" height="38" rx="9"/>
+    <text class="tiny" x="742" y="288" text-anchor="middle" fill="#E2E8F0">GITHUB</text>
+  </g>
+
+  <g opacity="0.9">
+    <circle cx="198" cy="146" r="3" fill="#22C55E">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="646" cy="226" r="3" fill="#61DAFB">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="914" cy="146" r="3" fill="#A78BFA">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

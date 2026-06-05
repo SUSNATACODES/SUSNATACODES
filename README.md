@@ -1,61 +1,73 @@
-<img src="./assets/capsule-header.svg" alt="Hi, I'm Susnata Biswas" />
+<p align="center">
+  <img src="./assets/futuristic-header.svg" alt="Susnata Biswas animated futuristic banner" />
+</p>
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Animated neon divider" />
+</p>
 
-## 👋 About Me
+<img align="right" alt="Coding animation" width="340" src="./assets/coding.gif">
 
-I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student** with a passion for **coding, mathematics, and technology**.
+## Mission Control
 
-- 🔭 Building practical projects while strengthening my coding portfolio
-- 🌱 Learning more about programming, data science, and electronics
-- ✍️ Sharing ideas and notes on [my blog](https://susnatacodes.blogspot.com)
-- 💡 Turning curiosity into code, and ideas into impact
+I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student** who loves **coding, mathematics, and technology**.
 
----
+- Building practical projects while strengthening my coding portfolio
+- Learning programming, data science, electronics, and Android development
+- Sharing ideas and notes on [my blog](https://susnatacodes.blogspot.com)
+- Turning curiosity into code, and ideas into impact
 
-## 📬 Connect with Me
+<br clear="right"/>
 
-<p align="left">
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Animated neon divider" />
+</p>
+
+## Connect Grid
+
+<p align="center">
   <a href="mailto:susnatacodes@zohomail.in">
-    <img src="https://img.shields.io/badge/Email-dc2626?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://susnatacodes.blogspot.com">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
   </a>
   <a href="https://instagram.com/capture_withsusnata">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/SUSNATACODES">
-    <img src="https://img.shields.io/github/followers/susnatacodes?label=GitHub%20Followers&style=flat&logo=github" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/SUSNATACODES?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=susnatacodes&color=blue&label=Profile%20Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SUSNATACODES&style=for-the-badge&color=61DAFB&label=Profile+Views" alt="Profile views" />
 </p>
 
 <!-- Add your LinkedIn URL here when ready:
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Susnata%20Biswas-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Susnata%20Biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 -->
 
----
-
-## 🧠 Skills
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,kotlin,js,html,css&theme=light" alt="C, Python, Kotlin, JavaScript, HTML, CSS" />
+  <img src="./assets/neon-divider.svg" alt="Animated neon divider" />
 </p>
 
----
-
-## ⚙️ Tools
+## Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,git,linux&theme=light" alt="VS Code, Android Studio, GitHub, Git, Linux" />
+  <img src="./assets/tech-radar.svg" alt="Animated futuristic tech radar showing skills and tools" />
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,kotlin,js,html,css&theme=dark" alt="C, Python, Kotlin, JavaScript, HTML, CSS" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,git,linux&theme=dark" alt="VS Code, Android Studio, GitHub, Git, Linux" />
+</p>
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="./assets/neon-divider.svg" alt="Animated neon divider" />
+</p>
+
+## Featured Builds
 
 | Project | Tech | Focus |
 | --- | --- | --- |
@@ -63,31 +75,17 @@ I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student
 | [DigitalDrawingAssist](https://github.com/SUSNATACODES/DigitalDrawingAssist) | Kotlin | Digital drawing assistance project |
 | [BARNEE-SLIDER](https://github.com/SUSNATACODES/BARNEE-SLIDER) | HTML | UI slider experiment |
 
-## 🧩 Most Used Languages
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUSNATACODES&theme=react" height="160" alt="Repositories per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SUSNATACODES&theme=react" height="160" alt="Most commit language" />
+  <img src="./assets/neon-divider.svg" alt="Animated neon divider" />
 </p>
 
----
+## Current Goals
 
-## 🎯 Goals
-
-- Build a **solid coding portfolio** with practical projects
-- Keep improving as a **student and developer**
+- Build a solid coding portfolio with practical projects
+- Keep improving as a student and developer
+- Mix electronics concepts with programming
 - Share useful content with the community
 
----
-
-## 🎉 Fun Side
-
-- 😀 Fan of **XKCD** and **PhD Comics**
-- 🤓 Love mixing **electronics concepts with programming**
-- 📚 Believe in *learning → building → sharing*
-
----
-
 <p align="center">
-  <i>Code is where creativity meets curiosity.</i> ✨
+  <img src="./assets/footer-pulse.svg" alt="Animated coding footer" />
 </p>

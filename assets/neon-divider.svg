@@ -1,0 +1,28 @@
+<svg width="1000" height="54" viewBox="0 0 1000 54" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated neon divider</title>
+  <desc id="desc">A glowing cyber line with moving light pulses.</desc>
+  <defs>
+    <linearGradient id="line" x1="80" y1="27" x2="920" y2="27" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61DAFB" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#61DAFB"/>
+      <stop offset="0.5" stop-color="#22C55E"/>
+      <stop offset="0.82" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <path d="M82 27H360L392 12H608L640 27H918" stroke="url(#line)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+  <path d="M112 27H888" stroke="#61DAFB" stroke-width="1" stroke-opacity="0.18" stroke-dasharray="8 12"/>
+  <circle r="5" fill="#61DAFB" filter="url(#glow)">
+    <animateMotion dur="3.6s" repeatCount="indefinite" path="M112 27H888"/>
+  </circle>
+  <circle r="4" fill="#22C55E" filter="url(#glow)">
+    <animateMotion dur="4.4s" repeatCount="indefinite" path="M888 27H112"/>
+  </circle>
+</svg>
