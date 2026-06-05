@@ -17,31 +17,23 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/SUSNATACODES">
-    <img src="https://img.shields.io/github/followers/susnatacodes?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/GitHub-SUSNATACODES-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=susnatacodes&style=for-the-badge&color=3a8296&label=Profile+Views" alt="Profile views" />
 </p>
 
 ## 👋 About Me
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <p>
-        I'm <strong>Susnata Biswas</strong>, an <strong>Electronics & Telecommunication Engineering student</strong> with a passion for <strong>coding, mathematics, and technology</strong>.
-      </p>
-      <ul>
-        <li>🔭 Building practical projects while strengthening my coding portfolio</li>
-        <li>🌱 Learning more about programming, data science, and electronics</li>
-        <li>✍️ Sharing ideas and notes on <a href="https://susnatacodes.blogspot.com">my blog</a></li>
-        <li>💡 Turning curiosity into code, and ideas into impact</li>
-      </ul>
-    </td>
-    <td width="42%" align="center">
-      <img src="./assets/coding.gif" alt="Animated coding workspace" width="380" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/coding.gif" alt="Animated coding workspace" width="560" />
+</p>
+
+I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student** with a passion for **coding, mathematics, and technology**.
+
+- 🔭 Building practical projects while strengthening my coding portfolio
+- 🌱 Learning more about programming, data science, and electronics
+- ✍️ Sharing ideas and notes on [my blog](https://susnatacodes.blogspot.com)
+- 💡 Turning curiosity into code, and ideas into impact
 
 ---
 
