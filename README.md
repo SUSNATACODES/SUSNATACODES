@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=61DAFB&center=true&vCenter=true&width=900&lines=Electronics+%26+Telecommunication+Student;Coder+%7C+Tech+Explorer+%7C+Problem+Solver;Turning+curiosity+into+code+and+ideas+into+impact" alt="Animated typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=750&duration=2300&color=61DAFB&center=true&vCenter=true&width=900&lines=Building+projects+with+code+%2B+electronics;Kotlin+%7C+Python+%7C+JavaScript+%7C+C;Student+developer+with+maker+energy;Learning+%E2%86%92+Building+%E2%86%92+Sharing" alt="Animated typing intro" />
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td width="42%" align="center">
-      <img src="./assets/coding.gif" alt="Animated coding workspace" width="330" />
+      <img src="./assets/coding.gif" alt="Animated coding workspace" width="380" />
     </td>
   </tr>
 </table>

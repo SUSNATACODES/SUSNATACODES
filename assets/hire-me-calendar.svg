@@ -5,7 +5,9 @@
     <pattern id="emptyCell" width="15" height="15" patternUnits="userSpaceOnUse">
       <rect x="0.5" y="0.5" width="10" height="10" rx="2" fill="#161B22" stroke="#21262D"/>
     </pattern>
-    <rect id="activeSquare" width="10" height="10" rx="2" fill="#39D353"/>
+    <rect id="activeSquare" width="10" height="10" rx="2" fill="#39D353">
+      <animate attributeName="opacity" values="0.72;1;0.72" dur="2s" repeatCount="indefinite"/>
+    </rect>
     <filter id="glow" x="-8%" y="-18%" width="116%" height="136%">
       <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.83 0 0 0 0 0.33 0 0 0 0.75 0"/>

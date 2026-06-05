@@ -1,56 +1,109 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Hi, I'm Susnata Biswas</title>
-  <desc id="desc">Electronics and Telecommunication Student, Coder, and Tech Explorer</desc>
+  <desc id="desc">Animated electronics and coding profile banner</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#091519"/>
-      <stop offset="0.55" stop-color="#16343C"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071115"/>
+      <stop offset="0.48" stop-color="#12323A"/>
       <stop offset="1" stop-color="#3A8296"/>
     </linearGradient>
-    <linearGradient id="wave" x1="0" y1="210" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#61DAFB" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#3A8296" stop-opacity="0.55"/>
+    <linearGradient id="shine" x1="-400" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61DAFB" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#61DAFB" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#61DAFB" stop-opacity="0"/>
+      <animate attributeName="x1" values="-450;1200" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="250;1900" dur="4s" repeatCount="indefinite"/>
     </linearGradient>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M 42 0 L 0 0 0 42" stroke="#61DAFB" stroke-opacity="0.09" stroke-width="1"/>
+    <linearGradient id="wave" x1="0" y1="235" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#61DAFB" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#3A8296" stop-opacity="0.62"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" stroke="#61DAFB" stroke-opacity="0.10" stroke-width="1"/>
     </pattern>
-    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.38 0 0 0 0 0.85 0 0 0 0 0.98 0 0 0 0.45 0"/>
+    <filter id="glow" x="-25%" y="-40%" width="150%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.38 0 0 0 0 0.85 0 0 0 0 0.98 0 0 0 0.7 0"/>
       <feBlend in="SourceGraphic" mode="screen"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#shine)"/>
 
-  <circle cx="995" cy="74" r="132" fill="#61DAFB" opacity="0.09"/>
-  <circle cx="1075" cy="118" r="84" fill="#7DD3FC" opacity="0.11"/>
-  <circle cx="135" cy="248" r="112" fill="#3A8296" opacity="0.18"/>
+  <g opacity="0.8">
+    <circle cx="955" cy="70" r="120" fill="#61DAFB" opacity="0.09">
+      <animate attributeName="r" values="105;132;105" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1064" cy="132" r="76" fill="#7DD3FC" opacity="0.12">
+      <animate attributeName="cy" values="122;148;122" dur="4.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="146" cy="262" r="105" fill="#3A8296" opacity="0.19">
+      <animate attributeName="cx" values="132;166;132" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-  <path d="M0 234C120 210 216 208 333 232C466 259 584 284 731 252C890 218 1016 170 1200 208V320H0V234Z" fill="url(#wave)"/>
-  <path d="M0 262C151 226 256 230 390 257C532 285 670 298 811 266C963 231 1082 220 1200 242V320H0V262Z" fill="#61DAFB" opacity="0.12"/>
+  <g stroke="#61DAFB" stroke-width="2" stroke-linecap="round" opacity="0.7">
+    <path d="M760 78H860L892 110H1010" stroke-opacity="0.42"/>
+    <path d="M770 142H850L880 172H1050" stroke-opacity="0.28"/>
+    <path d="M795 214H930" stroke-opacity="0.34"/>
+    <circle cx="860" cy="78" r="4" fill="#61DAFB">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="892" cy="110" r="4" fill="#61DAFB">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="930" cy="214" r="4" fill="#61DAFB">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(840 84)">
+    <rect width="260" height="150" rx="14" fill="#0B1F26" stroke="#61DAFB" stroke-opacity="0.26"/>
+    <text x="24" y="38" fill="#61DAFB" font-family="Consolas, Menlo, monospace" font-size="17" font-weight="700">&lt;/code&gt;</text>
+    <rect x="24" y="58" width="168" height="8" rx="4" fill="#61DAFB" opacity="0.55">
+      <animate attributeName="width" values="72;190;136;210;72" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="24" y="82" width="205" height="8" rx="4" fill="#39D353" opacity="0.5">
+      <animate attributeName="width" values="190;90;220;140;190" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="24" y="106" width="132" height="8" rx="4" fill="#61DAFB" opacity="0.42">
+      <animate attributeName="width" values="80;164;120;198;80" dur="3.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <path d="M0 248C125 219 228 218 351 244C493 274 616 300 770 265C936 227 1034 194 1200 224V340H0V248Z" fill="url(#wave)">
+    <animate attributeName="d" dur="5.5s" repeatCount="indefinite" values="M0 248C125 219 228 218 351 244C493 274 616 300 770 265C936 227 1034 194 1200 224V340H0V248Z;M0 238C150 260 270 210 390 238C540 274 662 284 805 244C970 198 1055 232 1200 214V340H0V238Z;M0 248C125 219 228 218 351 244C493 274 616 300 770 265C936 227 1034 194 1200 224V340H0V248Z"/>
+  </path>
+  <path d="M0 282C142 244 260 247 408 275C548 301 699 316 842 279C990 242 1090 237 1200 260V340H0V282Z" fill="#61DAFB" opacity="0.12">
+    <animate attributeName="opacity" values="0.08;0.2;0.08" dur="3.8s" repeatCount="indefinite"/>
+  </path>
 
   <g filter="url(#glow)">
-    <text x="74" y="122" fill="#61DAFB" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="0">
+    <text x="72" y="126" fill="#61DAFB" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="60" font-weight="850" letter-spacing="0">
       Hi, I'm Susnata Biswas
+      <animate attributeName="opacity" values="0.88;1;0.88" dur="2.4s" repeatCount="indefinite"/>
     </text>
   </g>
-  <text x="78" y="168" fill="#E6F7FA" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="0">
+  <rect x="706" y="82" width="8" height="55" rx="4" fill="#61DAFB">
+    <animate attributeName="opacity" values="1;0.1;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <text x="76" y="174" fill="#E6F7FA" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="650" letter-spacing="0">
     Electronics &amp; Telecommunication Student | Coder | Tech Explorer
   </text>
-  <text x="78" y="205" fill="#B7E6EF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="0">
+  <text x="76" y="212" fill="#B7E6EF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="550" letter-spacing="0">
     Turning curiosity into code, and ideas into impact.
   </text>
 
-  <g transform="translate(78 234)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="700">
-    <rect width="86" height="34" rx="17" fill="#0B1F26" stroke="#61DAFB" stroke-opacity="0.35"/>
+  <g transform="translate(76 246)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="750">
+    <rect width="86" height="34" rx="17" fill="#0B1F26" stroke="#61DAFB" stroke-opacity="0.45"/>
     <text x="24" y="22" fill="#DFF9FF">C</text>
-    <rect x="100" width="122" height="34" rx="17" fill="#0B1F26" stroke="#61DAFB" stroke-opacity="0.35"/>
+    <rect x="100" width="122" height="34" rx="17" fill="#0B1F26" stroke="#61DAFB" stroke-opacity="0.45"/>
     <text x="124" y="22" fill="#DFF9FF">Python</text>
-    <rect x="236" width="112" height="34" rx="17" fill="#0B1F26" stroke="#61DAFB" stroke-opacity="0.35"/>
+    <rect x="236" width="112" height="34" rx="17" fill="#0B1F26" stroke="#61DAFB" stroke-opacity="0.45"/>
     <text x="260" y="22" fill="#DFF9FF">Kotlin</text>
-    <rect x="362" width="138" height="34" rx="17" fill="#0B1F26" stroke="#61DAFB" stroke-opacity="0.35"/>
+    <rect x="362" width="138" height="34" rx="17" fill="#0B1F26" stroke="#61DAFB" stroke-opacity="0.45"/>
     <text x="386" y="22" fill="#DFF9FF">JavaScript</text>
   </g>
 </svg>
