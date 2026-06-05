@@ -1,4 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&text=Hi,%20I'm%20Susnata%20Biswas&reversal=true&fontColor=61DAFB&fontSize=48&textBg=false&animation=twinkling&desc=Electronics%20%26%20Telecommunication%20Student%20%7C%20Coder%20%7C%20Tech%20Explorer&descSize=18&descAlignY=73" alt="Hi, I'm Susnata Biswas" />
+<div align="center">
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:3a8296,100:091519&text=Hi,%20I'm%20Susnata%20Biswas&fontColor=61DAFB&fontSize=48&animation=twinkling" width="100%" />
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Electronics+%26+Telecommunication+Student;Passionate+Programmer;Tech+Explorer;Open+Source+Learner;Turning+Curiosity+Into+Code" />
+
+
+
+</div>
+
+
+
+<div align="center">
+
+
+
+<a href="mailto:susnatacodes@zohomail.in">
+
+<img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</a>
+
+
+
+<a href="https://susnatacodes.blogspot.com">
+
+<img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+
+</a>
+
+
+
+<a href="https://instagram.com/capture_withsusnata">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+</a>
+
+
+
+<a href="https://github.com/SUSNATACODES">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+
+
+</div>
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
