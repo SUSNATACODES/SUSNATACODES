@@ -1,77 +1,112 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&text=Hi,%20I'm%20Susnata%20Biswas&reversal=true&fontColor=61DAFB&fontSize=50&textBg=false&animation=twinkling&desc=Electronics%20%20%20Telecommunication%20Student%20|%20Coder%20|%20Tech%20Explorer&descSize=20&descAlignY=73" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&text=Hi,%20I'm%20Susnata%20Biswas&reversal=true&fontColor=61DAFB&fontSize=48&textBg=false&animation=twinkling&desc=Electronics%20%26%20Telecommunication%20Student%20%7C%20Coder%20%7C%20Tech%20Explorer&descSize=18&descAlignY=73" alt="Hi, I'm Susnata Biswas" />
 
-I’m **Susnata Biswas**, an **Electronics &amp; Telecommunication Engineering student** with a passion for **coding, mathematics, and technology**.  
-I love solving problems, experimenting with projects, and sharing my learning journey.  
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-💡 *“Turning curiosity into code, and ideas into impact.”*
+## 👋 About Me
 
----
+I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student** with a passion for **coding, mathematics, and technology**.
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 📬 Connect with Me  
-
-[![Mail](https://img.shields.io/badge/-Email-dc2626?style=flat&logo=gmail&logoColor=white)](mailto:susnatacodes@zohomail.in)  
-[![LinkedIn](https://img.shields.io/badge/-Susnata%20Biswas-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)  
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://susnatacodes.blogspot.com)  
-[![GitHub Followers](https://img.shields.io/github/followers/susnatacodes?label=GitHub%20Followers&style=flat&logo=github)](https://github.com/susnatacodes)  
-[![Profile Views](https://komarev.com/ghpvc/?username=susnatacodes&color=blue&label=Profile%20Views)](https://github.com/susnatacodes)  
+- 🔭 Building practical projects while strengthening my coding portfolio
+- 🌱 Learning more about programming, data science, and electronics
+- ✍️ Sharing ideas and notes on [my blog](https://susnatacodes.blogspot.com)
+- 💡 Turning curiosity into code, and ideas into impact
 
 ---
 
-### 🧠 Skills  
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="mailto:susnatacodes@zohomail.in">
+    <img src="https://img.shields.io/badge/Email-dc2626?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://susnatacodes.blogspot.com">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://instagram.com/capture_withsusnata">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/SUSNATACODES">
+    <img src="https://img.shields.io/github/followers/susnatacodes?label=GitHub%20Followers&style=flat&logo=github" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=susnatacodes&color=blue&label=Profile%20Views" alt="Profile views" />
+</p>
+
+<!-- Add your LinkedIn URL here when ready:
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Susnata%20Biswas-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+-->
+
+---
+
+## 🧠 Skills
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,python,kotlin,js,html,css&theme=light" alt="C, Python, Kotlin, JavaScript, HTML, CSS" />
 </p>
 
 ---
 
-### ⚙️ Tools  
+## ⚙️ Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,git,linux&theme=light" alt="VS Code, Android Studio, GitHub, Git, Linux" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics  
+## 🚀 Featured Projects
+
+| Project | Tech | Focus |
+| --- | --- | --- |
+| [SUSNATA-WEATHER-APP](https://github.com/SUSNATACODES/SUSNATA-WEATHER-APP) | JavaScript | Weather app and API practice |
+| [DigitalDrawingAssist](https://github.com/SUSNATACODES/DigitalDrawingAssist) | Kotlin | Digital drawing assistance project |
+| [BARNEE-SLIDER](https://github.com/SUSNATACODES/BARNEE-SLIDER) | HTML | UI slider experiment |
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=susnatacodes&theme=react&show_icons=true&hide_border=false" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=susnatacodes&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB" height="160" />
+  <img src="https://ghchart.rshah.org/3a8296/susnatacodes" alt="Susnata Biswas GitHub contribution calendar" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUSNATACODES&theme=react" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUSNATACODES&theme=react" height="160" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUSNATACODES&theme=react&utcOffset=5.5" height="160" alt="Productive time" />
 </p>
 
 ---
 
-### 🧩 Most Used Languages  
+## 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susnatacodes&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUSNATACODES&theme=react" height="160" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SUSNATACODES&theme=react" height="160" alt="Most commit language" />
 </p>
 
 ---
 
-## 🏆 Top Contributed Repo  
+## 🎯 Goals
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=susnatacodes&limit=5&theme=react&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 🎯 Goals  
-- Build a **solid coding portfolio** with practical projects  
-- Keep improving as a **student and developer**  
-- Share useful content with the community  
+- Build a **solid coding portfolio** with practical projects
+- Keep improving as a **student and developer**
+- Share useful content with the community
 
 ---
 
-## 🎉 Fun Side  
-- 😀 Fan of **XKCD** and **PhD Comics**  
-- 🤓 Love mixing **electronics concepts with programming**  
-- 📚 Believe in *learning → building → sharing*  
+## 🎉 Fun Side
+
+- 😀 Fan of **XKCD** and **PhD Comics**
+- 🤓 Love mixing **electronics concepts with programming**
+- 📚 Believe in *learning → building → sharing*
 
 ---
 
 <p align="center">
-  <i>“Code is where creativity meets curiosity.”</i> ✨
+  <i>Code is where creativity meets curiosity.</i> ✨
 </p>
