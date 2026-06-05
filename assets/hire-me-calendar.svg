@@ -5,20 +5,12 @@
     <pattern id="emptyCell" width="15" height="15" patternUnits="userSpaceOnUse">
       <rect x="0.5" y="0.5" width="10" height="10" rx="2" fill="#161B22" stroke="#21262D"/>
     </pattern>
-    <pattern id="activeCell" width="15" height="15" patternUnits="userSpaceOnUse">
-      <rect x="0.5" y="0.5" width="10" height="10" rx="2" fill="#39D353"/>
-    </pattern>
+    <rect id="activeSquare" width="10" height="10" rx="2" fill="#39D353"/>
     <filter id="glow" x="-8%" y="-18%" width="116%" height="136%">
       <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.83 0 0 0 0 0.33 0 0 0 0.75 0"/>
       <feBlend in="SourceGraphic" mode="screen"/>
     </filter>
-    <mask id="hireMask" x="0" y="0" width="940" height="178" maskUnits="userSpaceOnUse">
-      <rect width="940" height="178" fill="black"/>
-      <text x="470" y="128" text-anchor="middle" fill="white" font-family="Arial Black, Segoe UI Black, Arial, sans-serif" font-size="90" font-weight="900" letter-spacing="6">
-        HIRE ME
-      </text>
-    </mask>
   </defs>
 
   <rect x="1" y="1" width="938" height="176" rx="6" fill="#0D1117" stroke="#30363D"/>
@@ -45,7 +37,112 @@
   </g>
 
   <rect x="68" y="44" width="795" height="105" fill="url(#emptyCell)"/>
-  <rect x="68" y="44" width="795" height="105" fill="url(#activeCell)" filter="url(#glow)" mask="url(#hireMask)"/>
+  <g filter="url(#glow)">
+    <use href="#activeSquare" x="188.5" y="44.5"/>
+    <use href="#activeSquare" x="248.5" y="44.5"/>
+    <use href="#activeSquare" x="188.5" y="59.5"/>
+    <use href="#activeSquare" x="248.5" y="59.5"/>
+    <use href="#activeSquare" x="188.5" y="74.5"/>
+    <use href="#activeSquare" x="248.5" y="74.5"/>
+    <use href="#activeSquare" x="188.5" y="89.5"/>
+    <use href="#activeSquare" x="203.5" y="89.5"/>
+    <use href="#activeSquare" x="218.5" y="89.5"/>
+    <use href="#activeSquare" x="233.5" y="89.5"/>
+    <use href="#activeSquare" x="248.5" y="89.5"/>
+    <use href="#activeSquare" x="188.5" y="104.5"/>
+    <use href="#activeSquare" x="248.5" y="104.5"/>
+    <use href="#activeSquare" x="188.5" y="119.5"/>
+    <use href="#activeSquare" x="248.5" y="119.5"/>
+    <use href="#activeSquare" x="188.5" y="134.5"/>
+    <use href="#activeSquare" x="248.5" y="134.5"/>
+    <use href="#activeSquare" x="278.5" y="44.5"/>
+    <use href="#activeSquare" x="293.5" y="44.5"/>
+    <use href="#activeSquare" x="308.5" y="44.5"/>
+    <use href="#activeSquare" x="323.5" y="44.5"/>
+    <use href="#activeSquare" x="338.5" y="44.5"/>
+    <use href="#activeSquare" x="308.5" y="59.5"/>
+    <use href="#activeSquare" x="308.5" y="74.5"/>
+    <use href="#activeSquare" x="308.5" y="89.5"/>
+    <use href="#activeSquare" x="308.5" y="104.5"/>
+    <use href="#activeSquare" x="308.5" y="119.5"/>
+    <use href="#activeSquare" x="278.5" y="134.5"/>
+    <use href="#activeSquare" x="293.5" y="134.5"/>
+    <use href="#activeSquare" x="308.5" y="134.5"/>
+    <use href="#activeSquare" x="323.5" y="134.5"/>
+    <use href="#activeSquare" x="338.5" y="134.5"/>
+    <use href="#activeSquare" x="368.5" y="44.5"/>
+    <use href="#activeSquare" x="383.5" y="44.5"/>
+    <use href="#activeSquare" x="398.5" y="44.5"/>
+    <use href="#activeSquare" x="413.5" y="44.5"/>
+    <use href="#activeSquare" x="368.5" y="59.5"/>
+    <use href="#activeSquare" x="428.5" y="59.5"/>
+    <use href="#activeSquare" x="368.5" y="74.5"/>
+    <use href="#activeSquare" x="428.5" y="74.5"/>
+    <use href="#activeSquare" x="368.5" y="89.5"/>
+    <use href="#activeSquare" x="383.5" y="89.5"/>
+    <use href="#activeSquare" x="398.5" y="89.5"/>
+    <use href="#activeSquare" x="413.5" y="89.5"/>
+    <use href="#activeSquare" x="368.5" y="104.5"/>
+    <use href="#activeSquare" x="398.5" y="104.5"/>
+    <use href="#activeSquare" x="368.5" y="119.5"/>
+    <use href="#activeSquare" x="413.5" y="119.5"/>
+    <use href="#activeSquare" x="368.5" y="134.5"/>
+    <use href="#activeSquare" x="428.5" y="134.5"/>
+    <use href="#activeSquare" x="458.5" y="44.5"/>
+    <use href="#activeSquare" x="473.5" y="44.5"/>
+    <use href="#activeSquare" x="488.5" y="44.5"/>
+    <use href="#activeSquare" x="503.5" y="44.5"/>
+    <use href="#activeSquare" x="518.5" y="44.5"/>
+    <use href="#activeSquare" x="458.5" y="59.5"/>
+    <use href="#activeSquare" x="458.5" y="74.5"/>
+    <use href="#activeSquare" x="458.5" y="89.5"/>
+    <use href="#activeSquare" x="473.5" y="89.5"/>
+    <use href="#activeSquare" x="488.5" y="89.5"/>
+    <use href="#activeSquare" x="503.5" y="89.5"/>
+    <use href="#activeSquare" x="458.5" y="104.5"/>
+    <use href="#activeSquare" x="458.5" y="119.5"/>
+    <use href="#activeSquare" x="458.5" y="134.5"/>
+    <use href="#activeSquare" x="473.5" y="134.5"/>
+    <use href="#activeSquare" x="488.5" y="134.5"/>
+    <use href="#activeSquare" x="503.5" y="134.5"/>
+    <use href="#activeSquare" x="518.5" y="134.5"/>
+    <use href="#activeSquare" x="593.5" y="44.5"/>
+    <use href="#activeSquare" x="653.5" y="44.5"/>
+    <use href="#activeSquare" x="593.5" y="59.5"/>
+    <use href="#activeSquare" x="608.5" y="59.5"/>
+    <use href="#activeSquare" x="638.5" y="59.5"/>
+    <use href="#activeSquare" x="653.5" y="59.5"/>
+    <use href="#activeSquare" x="593.5" y="74.5"/>
+    <use href="#activeSquare" x="623.5" y="74.5"/>
+    <use href="#activeSquare" x="653.5" y="74.5"/>
+    <use href="#activeSquare" x="593.5" y="89.5"/>
+    <use href="#activeSquare" x="623.5" y="89.5"/>
+    <use href="#activeSquare" x="653.5" y="89.5"/>
+    <use href="#activeSquare" x="593.5" y="104.5"/>
+    <use href="#activeSquare" x="653.5" y="104.5"/>
+    <use href="#activeSquare" x="593.5" y="119.5"/>
+    <use href="#activeSquare" x="653.5" y="119.5"/>
+    <use href="#activeSquare" x="593.5" y="134.5"/>
+    <use href="#activeSquare" x="653.5" y="134.5"/>
+    <use href="#activeSquare" x="683.5" y="44.5"/>
+    <use href="#activeSquare" x="698.5" y="44.5"/>
+    <use href="#activeSquare" x="713.5" y="44.5"/>
+    <use href="#activeSquare" x="728.5" y="44.5"/>
+    <use href="#activeSquare" x="743.5" y="44.5"/>
+    <use href="#activeSquare" x="683.5" y="59.5"/>
+    <use href="#activeSquare" x="683.5" y="74.5"/>
+    <use href="#activeSquare" x="683.5" y="89.5"/>
+    <use href="#activeSquare" x="698.5" y="89.5"/>
+    <use href="#activeSquare" x="713.5" y="89.5"/>
+    <use href="#activeSquare" x="728.5" y="89.5"/>
+    <use href="#activeSquare" x="683.5" y="104.5"/>
+    <use href="#activeSquare" x="683.5" y="119.5"/>
+    <use href="#activeSquare" x="683.5" y="134.5"/>
+    <use href="#activeSquare" x="698.5" y="134.5"/>
+    <use href="#activeSquare" x="713.5" y="134.5"/>
+    <use href="#activeSquare" x="728.5" y="134.5"/>
+    <use href="#activeSquare" x="743.5" y="134.5"/>
+  </g>
 
   <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" fill="#8B949E">
     <text x="68" y="165">Learn how we count contributions</text>
