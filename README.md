@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&text=Hi,%20I'm%20Susnata%20Biswas&reversal=true&fontColor=61DAFB&fontSize=48&textBg=false&animation=twinkling&desc=Electronics%20%26%20Telecommunication%20Student%20%7C%20Coder%20%7C%20Tech%20Explorer&descSize=18&descAlignY=73" alt="Hi, I'm Susnata Biswas" />
+<h1 align="center">Hi, I'm Susnata Biswas</h1>
+<h3 align="center">Electronics & Telecommunication Student | Coder | Tech Explorer</h3>
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
