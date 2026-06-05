@@ -1,9 +1,26 @@
-<h1 align="center">Hi, I'm Susnata Biswas</h1>
-<h3 align="center">Electronics & Telecommunication Student | Coder | Tech Explorer</h3>
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Hi, I'm Susnata Biswas - Electronics and Telecommunication Student" width="100%" />
+</p>
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center">
+  <a href="mailto:susnatacodes@zohomail.in">
+    <img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://susnatacodes.blogspot.com">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://instagram.com/capture_withsusnata">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/SUSNATACODES">
+    <img src="https://img.shields.io/github/followers/susnatacodes?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=susnatacodes&style=for-the-badge&color=3a8296&label=Profile+Views" alt="Profile views" />
+</p>
 
 ## 👋 About Me
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student** with a passion for **coding, mathematics, and technology**.
 
@@ -11,32 +28,6 @@ I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student
 - 🌱 Learning more about programming, data science, and electronics
 - ✍️ Sharing ideas and notes on [my blog](https://susnatacodes.blogspot.com)
 - 💡 Turning curiosity into code, and ideas into impact
-
----
-
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="mailto:susnatacodes@zohomail.in">
-    <img src="https://img.shields.io/badge/Email-dc2626?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://susnatacodes.blogspot.com">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://instagram.com/capture_withsusnata">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/SUSNATACODES">
-    <img src="https://img.shields.io/github/followers/susnatacodes?label=GitHub%20Followers&style=flat&logo=github" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=susnatacodes&color=blue&label=Profile%20Views" alt="Profile views" />
-</p>
-
-<!-- Add your LinkedIn URL here when ready:
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Susnata%20Biswas-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
--->
 
 ---
 
