@@ -20,8 +20,6 @@
 
 ## 👋 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student** with a passion for **coding, mathematics, and technology**.
 
 - 🔭 Building practical projects while strengthening my coding portfolio
