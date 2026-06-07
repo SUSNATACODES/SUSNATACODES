@@ -128,7 +128,7 @@ I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student
 
 - Build a **solid coding portfolio** with practical projects
 - Keep improving as a **student and developer**
-- Share useful content with the community
+- Share useful content with the community,
 
 ---
 
