@@ -115,7 +115,7 @@ I'm **Susnata Biswas**, an **Electronics & Telecommunication Engineering student
 | [DigitalDrawingAssist](https://github.com/SUSNATACODES/DigitalDrawingAssist) | Kotlin | Digital drawing assistance project |
 | [BARNEE-SLIDER](https://github.com/SUSNATACODES/BARNEE-SLIDER) | HTML | UI slider experiment |
 
-## 🧩 Most Used Languages
+## 🧩 Most Used Languages :
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUSNATACODES&theme=react" height="160" alt="Repositories per language" />
